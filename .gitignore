@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+output/annotated/*
+output/masks/*
+output/heatmaps/*
+output/crops/*
+output/reports/*
+
+models/yolo/*
+*.log
+.DS_Store
+Thumbs.db

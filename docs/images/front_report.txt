@@ -1,0 +1,219 @@
+Image: 3.png
+Side: front
+Alignment: {'method': 'ecc', 'ok': True}
+Total defects: 43
+
+Defect #1
+  Type : scratch
+  Score: 106.0
+  BBox : (569, 539, 30, 9)
+
+Defect #2
+  Type : scratch
+  Score: 114.0
+  BBox : (285, 539, 32, 10)
+
+Defect #3
+  Type : scratch
+  Score: 626.0
+  BBox : (473, 538, 87, 20)
+
+Defect #4
+  Type : scratch
+  Score: 182.0
+  BBox : (455, 538, 32, 12)
+
+Defect #5
+  Type : scratch
+  Score: 120.0
+  BBox : (116, 517, 9, 33)
+
+Defect #6
+  Type : scratch
+  Score: 447.0
+  BBox : (80, 429, 11, 92)
+
+Defect #7
+  Type : scratch
+  Score: 1140.5
+  BBox : (136, 353, 38, 77)
+
+Defect #8
+  Type : scratch
+  Score: 119.0
+  BBox : (413, 287, 30, 12)
+
+Defect #9
+  Type : scratch
+  Score: 88.0
+  BBox : (502, 138, 25, 9)
+
+Defect #10
+  Type : scratch
+  Score: 684.0
+  BBox : (707, 62, 22, 72)
+
+Defect #11
+  Type : scratch
+  Score: 133.5
+  BBox : (688, 53, 9, 27)
+
+Defect #12
+  Type : scratch
+  Score: 295.5
+  BBox : (112, 44, 36, 16)
+
+Defect #13
+  Type : missing_component_or_major_mismatch
+  Score: 1237.0
+  BBox : (400, 586, 93, 17)
+
+Defect #14
+  Type : missing_component_or_major_mismatch
+  Score: 598.0
+  BBox : (689, 582, 33, 21)
+
+Defect #15
+  Type : missing_component_or_major_mismatch
+  Score: 1752.5
+  BBox : (550, 582, 124, 21)
+
+Defect #16
+  Type : missing_component_or_major_mismatch
+  Score: 315.5
+  BBox : (388, 355, 37, 15)
+
+Defect #17
+  Type : missing_component_or_major_mismatch
+  Score: 421.0
+  BBox : (427, 353, 51, 17)
+
+Defect #18
+  Type : missing_component_or_major_mismatch
+  Score: 1810.0
+  BBox : (549, 346, 52, 97)
+
+Defect #19
+  Type : missing_component_or_major_mismatch
+  Score: 459.0
+  BBox : (533, 322, 46, 24)
+
+Defect #20
+  Type : missing_component_or_major_mismatch
+  Score: 2951.5
+  BBox : (131, 272, 78, 61)
+
+Defect #21
+  Type : missing_component_or_major_mismatch
+  Score: 8901.0
+  BBox : (242, 221, 99, 150)
+
+Defect #22
+  Type : missing_component_or_major_mismatch
+  Score: 1087.5
+  BBox : (262, 165, 57, 37)
+
+Defect #23
+  Type : dent_or_blob_defect
+  Score: 142.5
+  BBox : (231, 515, 27, 12)
+
+Defect #24
+  Type : dent_or_blob_defect
+  Score: 93.5
+  BBox : (752, 479, 11, 27)
+
+Defect #25
+  Type : dent_or_blob_defect
+  Score: 129.5
+  BBox : (652, 465, 18, 13)
+
+Defect #26
+  Type : dent_or_blob_defect
+  Score: 109.0
+  BBox : (627, 464, 19, 13)
+
+Defect #27
+  Type : dent_or_blob_defect
+  Score: 357.0
+  BBox : (467, 464, 44, 19)
+
+Defect #28
+  Type : dent_or_blob_defect
+  Score: 143.0
+  BBox : (221, 463, 22, 35)
+
+Defect #29
+  Type : dent_or_blob_defect
+  Score: 96.5
+  BBox : (329, 413, 11, 13)
+
+Defect #30
+  Type : dent_or_blob_defect
+  Score: 212.5
+  BBox : (281, 411, 22, 27)
+
+Defect #31
+  Type : dent_or_blob_defect
+  Score: 94.5
+  BBox : (327, 394, 16, 14)
+
+Defect #32
+  Type : dent_or_blob_defect
+  Score: 605.5
+  BBox : (203, 361, 25, 57)
+
+Defect #33
+  Type : dent_or_blob_defect
+  Score: 605.0
+  BBox : (532, 322, 48, 25)
+
+Defect #34
+  Type : dent_or_blob_defect
+  Score: 3308.0
+  BBox : (130, 272, 83, 62)
+
+Defect #35
+  Type : dent_or_blob_defect
+  Score: 180.5
+  BBox : (130, 244, 20, 18)
+
+Defect #36
+  Type : dent_or_blob_defect
+  Score: 117.5
+  BBox : (300, 226, 28, 14)
+
+Defect #37
+  Type : dent_or_blob_defect
+  Score: 251.0
+  BBox : (341, 198, 55, 30)
+
+Defect #38
+  Type : dent_or_blob_defect
+  Score: 84.5
+  BBox : (229, 198, 12, 17)
+
+Defect #39
+  Type : dent_or_blob_defect
+  Score: 196.0
+  BBox : (361, 173, 20, 28)
+
+Defect #40
+  Type : dent_or_blob_defect
+  Score: 1329.5
+  BBox : (261, 165, 59, 38)
+
+Defect #41
+  Type : dent_or_blob_defect
+  Score: 142.5
+  BBox : (227, 164, 20, 15)
+
+Defect #42
+  Type : dent_or_blob_defect
+  Score: 240.5
+  BBox : (385, 158, 22, 29)
+
+Defect #43
+  Type : dent_or_blob_defect
+  Score: 116.5
+  BBox : (185, 114, 16, 17)

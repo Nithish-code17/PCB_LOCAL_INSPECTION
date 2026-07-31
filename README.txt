@@ -9,7 +9,7 @@ The current system focuses o
 - missing component / major mismatch detect
 - dent / blob-like def
 - annotated visual output generat
-- heatmap genera
+- heatmap gen
 - cropped defect vi
 - text-based inspection 
 Key Id

@@ -16,7 +16,7 @@ The current system focuses on:
 
 Key Id
 The system takes:
-- one perfect PCB image as reference
+- one perfect PCB image as refere
 - one or more defective PCB images
 
 It then:

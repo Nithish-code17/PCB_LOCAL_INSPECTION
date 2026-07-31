@@ -7,7 +7,7 @@ This project is built as a local prototype for automated PCB visual inspection. 
 The current system focuses o
 - scratch de
 - missing component / major mismatch detection
-- dent / blob-like defect 
+- dent / blob-like def
 - annotated visual output generation
 - heatmap genera
 - cropped defect vi

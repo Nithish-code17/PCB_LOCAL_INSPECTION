@@ -8,7 +8,7 @@ The current system focuses on:
 
 - scratch de
 - missing component / major mismatch detection
-- dent / blob-like defect dete
+- dent / blob-like defect 
 - annotated visual output generation
 - heatmap genera
 - cropped defect vi

@@ -10,7 +10,7 @@ The current system focuses on:
 - missing component / major mismatch detection
 - dent / blob-like defect dete
 - annotated visual output generation
-- heatmap generati
+- heatmap genera
 - cropped defect views
 - text-based inspection reports
 

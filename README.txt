@@ -38,7 +38,7 @@ Supported Defect Types
 
 The current prototype detects:
 
-- Scratch
+- Scra
 - Missing component / major mismatch
 - Dent / blob-like defect
 

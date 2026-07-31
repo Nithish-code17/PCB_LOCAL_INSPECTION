@@ -14,8 +14,7 @@ The current system focuses on:
 - cropped defect views
 - text-based inspection reports
 
-Key Idea
-
+Key Id
 The system takes:
 - one perfect PCB image as reference
 - one or more defective PCB images

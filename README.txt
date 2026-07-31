@@ -11,7 +11,7 @@ The current system focuses o
 - annotated visual output generat
 - heatmap genera
 - cropped defect vi
-- text-based inspection rep
+- text-based inspection 
 Key Id
 The system ta
 - one perfect PCB image as refere

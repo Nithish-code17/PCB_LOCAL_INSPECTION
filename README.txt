@@ -20,7 +20,7 @@ The system takes:
 - one or more defective PCB images
 
 It then:
-1. aligns the defective image with the reference image
+1. aligns the defective image with the reference ima
 2. compares both images
 3. identifies suspicious regions
 4. classifies them into defect categories

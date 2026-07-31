@@ -11,7 +11,7 @@ The current system focuses o
 - annotated visual output generation
 - heatmap genera
 - cropped defect vi
-- text-based inspection reports
+- text-based inspection repo
 
 Key Id
 The system ta

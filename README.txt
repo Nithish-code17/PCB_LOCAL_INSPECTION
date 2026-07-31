@@ -1,7 +1,6 @@
 PCB Local Inspection:
 
-A Python-based local PCB defect inspection prototype that compares a perfect reference PCB image with defective PCB images and identifies visible defects such as scratches, missing components, and dent/blob-like damage.
-
+A Python-based local PCB defect inspection prototype that compares a perfect reference PCB image with defective PCB images and identifies visible defects such as scratches, missing components, and dent/blob-like damage
 Project Objective:
 
 This project is built as a local prototype for automated PCB visual inspection. The goal is to detect visible defects from static PCB images using classical computer vision techniques.

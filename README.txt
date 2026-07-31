@@ -6,7 +6,7 @@ Project Objective:
 This project is built as a local prototype for automated PCB visual inspection. The goal is to detect visible defects from static PCB images using classical computer vision technique
 The current system focuses on:
 
-- scratch detection
+- scratch detec
 - missing component / major mismatch detection
 - dent / blob-like defect dete
 - annotated visual output generation

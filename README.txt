@@ -15,7 +15,7 @@ The current system focuses on:
 - text-based inspection reports
 
 Key Id
-The system takes:
+The system ta
 - one perfect PCB image as refere
 - one or more defective PCB images
 

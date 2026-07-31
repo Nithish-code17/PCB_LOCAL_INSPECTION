@@ -11,7 +11,7 @@ The current system focuses on:
 - dent / blob-like defect dete
 - annotated visual output generation
 - heatmap genera
-- cropped defect views
+- cropped defect vi
 - text-based inspection reports
 
 Key Id
